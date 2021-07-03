@@ -1,0 +1,21 @@
+DEBUG:root:This is debug message
+DEBUG:root:This is debug message
+INFO:root:This is info msg
+WARNING:root:this is warning message
+ERROR:root:this is erros msg
+CRITICAL:root:this is critical message
+WARNING:root:this is warning message
+ERROR:root:this is erros msg
+CRITICAL:root:this is critical message
+WARNING:root:this is warning message
+ERROR:root:this is erros msg
+CRITICAL:root:this is critical message
+INFO:root:A new request come
+INFO:root:Requested process completed
+INFO:root:A new request come
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Users\BK\PycharmProjects\pythonProject6\log.py", line 7, in <module>
+    print(x/y)
+ZeroDivisionError: division by zero
+INFO:root:Requested process completed
